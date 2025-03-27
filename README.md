@@ -4,6 +4,6 @@
 <br/>
 <br/>
 
-<p align="center"> 🌱 I’m currently learning <strong>Go</strong></p>
+<p align="center"> 🌱 I’m currently learning <strong>Nestjs & Graphql</strong></p>
 <p align="center"> 📫 You can reach me at <strong>furkan.gundz00@gmail.com</strong></p>
 <p align="center"> 🔗 Visit my website: <a href="https://furkangunduz.com"><strong>furkangunduz.com</strong></a></p>
