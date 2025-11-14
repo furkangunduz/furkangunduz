@@ -53,7 +53,4 @@ design modules, and mobile app conversions. I enjoy solving real-world problems 
   <a href="https://furkangunduz.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.codewars.com/users/deathPunch">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars" />
-  </a>
 </div>
